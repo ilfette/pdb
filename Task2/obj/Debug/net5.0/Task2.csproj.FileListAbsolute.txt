@@ -1,0 +1,16 @@
+C:\Users\PB\Desktop\для учебы\ВУЗ\ПДБ\lr2\pt2\Task2\bin\Debug\net5.0\Task2.exe
+C:\Users\PB\Desktop\для учебы\ВУЗ\ПДБ\lr2\pt2\Task2\bin\Debug\net5.0\Task2.deps.json
+C:\Users\PB\Desktop\для учебы\ВУЗ\ПДБ\lr2\pt2\Task2\bin\Debug\net5.0\Task2.runtimeconfig.json
+C:\Users\PB\Desktop\для учебы\ВУЗ\ПДБ\lr2\pt2\Task2\bin\Debug\net5.0\Task2.runtimeconfig.dev.json
+C:\Users\PB\Desktop\для учебы\ВУЗ\ПДБ\lr2\pt2\Task2\bin\Debug\net5.0\Task2.dll
+C:\Users\PB\Desktop\для учебы\ВУЗ\ПДБ\lr2\pt2\Task2\bin\Debug\net5.0\ref\Task2.dll
+C:\Users\PB\Desktop\для учебы\ВУЗ\ПДБ\lr2\pt2\Task2\bin\Debug\net5.0\Task2.pdb
+C:\Users\PB\Desktop\для учебы\ВУЗ\ПДБ\lr2\pt2\Task2\obj\Debug\net5.0\Task2.csproj.AssemblyReference.cache
+C:\Users\PB\Desktop\для учебы\ВУЗ\ПДБ\lr2\pt2\Task2\obj\Debug\net5.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PB\Desktop\для учебы\ВУЗ\ПДБ\lr2\pt2\Task2\obj\Debug\net5.0\Task2.AssemblyInfoInputs.cache
+C:\Users\PB\Desktop\для учебы\ВУЗ\ПДБ\lr2\pt2\Task2\obj\Debug\net5.0\Task2.AssemblyInfo.cs
+C:\Users\PB\Desktop\для учебы\ВУЗ\ПДБ\lr2\pt2\Task2\obj\Debug\net5.0\Task2.csproj.CoreCompileInputs.cache
+C:\Users\PB\Desktop\для учебы\ВУЗ\ПДБ\lr2\pt2\Task2\obj\Debug\net5.0\Task2.dll
+C:\Users\PB\Desktop\для учебы\ВУЗ\ПДБ\lr2\pt2\Task2\obj\Debug\net5.0\ref\Task2.dll
+C:\Users\PB\Desktop\для учебы\ВУЗ\ПДБ\lr2\pt2\Task2\obj\Debug\net5.0\Task2.pdb
+C:\Users\PB\Desktop\для учебы\ВУЗ\ПДБ\lr2\pt2\Task2\obj\Debug\net5.0\Task2.genruntimeconfig.cache
